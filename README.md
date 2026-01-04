@@ -164,10 +164,18 @@ Generates `submission.zip`
 - Real-time video crack detection
 - Deployment using TensorRT / ONNX
 
-## 👨‍💻 Author
+## 👨‍💻 Contributors
 **Vishal K R**
 - **GitHub**: [VishalKR-12](https://github.com/VishalKR-12)
 - **LinkedIn**: [vishal-k-r-b762a0371](https://www.linkedin.com/in/vishal-k-r-b762a0371)
+
+**Bhavishya V**
+- **GitHub**: [bhavi187](https://github.com/bhavi187)
+- **LinkedIn**: [bhavishya-vasantha](https://www.linkedin.com/in/bhavishya-vasantha)
+
+**Yatish Balaji G**
+- **GitHub**: [yatish2136](https://github.com/yatish2136)
+- **LinkedIn**: [yatish-balaji-g-372b71245](https://www.linkedin.com/in/yatish-balaji-g-372b71245/)
 
 ## ⭐ Acknowledgements
 - Ultralytics YOLOv8

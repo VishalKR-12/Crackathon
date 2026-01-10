@@ -37,6 +37,8 @@ This project aims to automate crack detection using deep learning, enabling:
 
 **Dataset Link**: [Kaggle Dataset](https://kaggle.com/datasets/2bbd360e1ca39095fb6c6be9a26acbdc759db6ea5b5d75406451230e8ab42260)
 
+**Model**: `runs_all_models\detect\yolov8m_finetune\weights\best.pt`
+
 ### 📂 Dataset Structure
 
 ```text
